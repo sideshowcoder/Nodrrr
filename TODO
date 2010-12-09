@@ -1,0 +1,15 @@
+FIXME:
+- Notifications sticky flag not working
+
+TODO:
+- Test code
+	- registration packet
+	- notification packet
+	- Pack method
+- Password still not tested
+
+DONE:
+- LICENSE is missing
+- Extend example
+- Package.json is missing	
+- Readme is missing
