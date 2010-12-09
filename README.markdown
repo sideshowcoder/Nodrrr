@@ -3,6 +3,9 @@ from [node](http://nodejs.org).
 
 Growl is a really cool "global notification system for Mac OS X".
 
+### Install
+	npm install nodrrr
+
 ### Example
 	var nodrrr = require('../lib/nodrrr');
 	var Ng = new nodrrr.Nodrrr('localhost', 'growlnotify', ['Command-Line Growl Notification'], ['Command-Line Growl Notification'], null)
