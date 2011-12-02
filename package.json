@@ -1,8 +1,8 @@
 {   "name": "nodrrr"
   , "description": "growl for nodejs"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "author": "Philipp Fehre <philipp.fehre@googlemail.com>"
-  , "keywords": ["growl"]
+  , "keywords": ["growl", "notfication"]
   , "main": "./lib/nodrrr.js"
-  , "engines": { "node": ">= 0.3.1" }
+  , "engines": { "node": ">= 0.6.3" }
 }
